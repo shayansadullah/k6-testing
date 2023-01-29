@@ -6,4 +6,4 @@ pool:
 steps:
   - task: k6-load-test@0
     inputs:
-      filename: "..rampingUp.js"
+      filename: "../rampingUp.js"
